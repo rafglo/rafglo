@@ -5,4 +5,4 @@ I'm an Applied Mathemathics student at Wrocław University of Science and Techno
 [![My Skills](https://skillicons.dev/icons?i=py,pycharm,r,sklearn,bash,latex,arduino,anaconda,flask,html,git,github,vscode,windows,css)](https://skillicons.dev)
 
 # GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafglo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafglo&hide=commits)](https://github.com/anuraghazra/github-readme-stats)
