@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&reversal=false&animation=twinkling&textBg=false&descAlign=55&descAlignY=56&rotate=0&strokeWidth=0"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&reversal=false&animation=twinkling&textBg=false&descAlign=55&descAlignY=56&rotate=0&strokeWidth=0"/>
 
 # About Me:
 I'm an Applied Mathemathics student at Wrocław University of Science and Technology. I am particularly interested in the applications of mathematics in the field of computer science, finance and statistics. Here you can check out my full coursework portoflio.
