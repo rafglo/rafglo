@@ -8,7 +8,8 @@
 
 # GitHub Stats:
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://streak-stats.demolab.com/?user=rafglo&theme=radical&hide_border=false" />
+<img style="height: auto; width: 55%;" class="img" src="https://streak-stats.demolab.com/?user=rafglo&theme=radical&hide_border=false&cache_seconds=86400
+" />
 &nbsp;
 &nbsp;
 <img decoding="async" loading="lazy" style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafglo&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
